@@ -1,0 +1,9 @@
+INSERT INTO properties (owner_id, title, description, thumbnail_photo_url, cover_photo_url, cost_per_night, parking_spaces, number_of_bathrooms, number_of_bedrooms, country, street, city, province, post_code)
+VALUES (1, 'Great Sunset', 'You will never forget us', 'https://www.freeimages.com/ru/photo/house-1223067', 'https://www.freeimages.com/ru/photo/house-1223067', 200, 2, 2, 5, 'Canada', 'Freedom', 'Vancouver', 'BC', 'V5O 6P4'),
+       (2, 'Choose me', 'We have the best service', 'https://www.freeimages.com/ru/photo/mountain-house-1213283', 'https://www.freeimages.com/ru/photo/mountain-house-1213283', 250, 3, 2, 7, 'Canada', 'Sunset', 'Vancouver', 'BC', 'V5O 6P4'),
+       (7, 'Best of the best', 'Here was a description', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 500, 3, 4, 7, 'Canada', 'Dream', 'Vancouver', 'BC', 'V5O 6P4'),
+       (4, 'Good time', 'No title, just come and see', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 499, 2, 1, 2, 'Canada', 'Bears', 'Vancouver', 'BC', 'V5O 6P4'),
+       (3, 'Blue sky', 'Everything you need', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 355, 2, 2, 3, 'Canada', 'Storm', 'Vancouver', 'BC', 'V5O 6P4'),
+       (5, 'Green forest', 'Ghosts inside', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 130, 1, 1, 3, 'Canada', 'Grant', 'Vancouver', 'BC', 'V5O 6P4'),
+       (6, 'Angry Birds', 'Really angry birds', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 'https://www.freeimages.com/ru/photo/irish-house-1230601', 99, 0, 1, 1, 'Canada', 'BirdsHill', 'Vancouver', 'BC', 'V5O 6P4');
+
